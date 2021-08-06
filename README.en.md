@@ -1,4 +1,4 @@
-# This guy went to military service
+# This guy went for military service
 [하아아안-국어](README.md)  
 
 **Aug 9th, 2021 ~ Oct 9th, 2021(estimated)**  
