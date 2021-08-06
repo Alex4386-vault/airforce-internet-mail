@@ -20,7 +20,8 @@ If your issue is closed, then that means the message probably has sent.
 
 ## WHY GitHub?
 South Korean Airforce Internet Mail System SUUUUUUUUUCKS.  
-You don't want to use Internet Explorer. Don't you. (If you didn't know, IE is a **contemporary browser** for **browsing government services** _(also, obsolete ones usually means no support for ActiveX. those includes "Netscape Navigator" and "Mosaic")_)  
+You don't want to use Internet Explorer, do you.  
+(If you didn't know, IE is a **contemporary browser** for **browsing government services** _(also, obsolete ones usually means no support for ActiveX. those includes "Netscape Navigator" and "Mosaic")_)  
 
 ## Sponsors
 This project is using free instance of node.js server on [Stella IT Inc. (Korean Only for now)](https://stella-it.com)  
