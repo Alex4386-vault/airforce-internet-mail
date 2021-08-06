@@ -25,4 +25,3 @@
 
 ## Sponsors
 이 프로젝트는 [Stella IT Inc.](https://stella-it.com) 의 인프라를 무상으로 제공받아서 돌리는 중입니다.  
-~~이잉~ 앗살라말라이꿈~~~   
