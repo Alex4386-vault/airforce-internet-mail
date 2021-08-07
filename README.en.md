@@ -16,7 +16,15 @@ Just write your message on issues.
 Your message should be **LESS THAN 2000 BYTES and PLAIN TEXT ONLY**. or it won't be sent.
 
 If your issue is closed, then that means the message probably has sent.  
-**Additional Information: I can NOT retrieve messages until Aug 23rd (Training Week 2) or Aug 30th (Training Week 3)** due to COVID Restrictions and "Policy".  
+
+### Rules
+1. **I can NOT retrieve messages until Aug 23rd (Training Week 2) or Aug 30th (Training Week 3)** due to COVID Restrictions and "Policy".  
+2. No other characters than ASCII, (or EUC-KR supported Korean/Chinese Characters). Emojis are NOT allowed.  
+3. Message should be less than 2000 bytes in total (EUC-KR (or ASCII))
+4. Markdown is NOT supported. Plain text only.  
+5. Line feed is not recommended. I recommend writing only one paragraph
+6. There is no E2E encryption and there is high chance that others will see. I **CAN NOT** decrypt message since I don't have any sort of computer available.
+7. **THIS IS NOT FOR A JOKE.**  
 
 ## WHY GitHub?
 South Korean Airforce Internet Mail System SUUUUUUUUUCKS.  
