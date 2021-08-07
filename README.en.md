@@ -19,7 +19,7 @@ If your issue is closed, then that means the message probably has sent.
 
 ### Rules
 1. **I can NOT retrieve messages until Aug 23rd (Training Week 2) or Aug 30th (Training Week 3)** due to COVID Restrictions and "Policy".  
-2. No other characters than ASCII, (or EUC-KR supported Korean/Chinese Characters). Emojis are NOT allowed.  
+2. No other characters than ASCII, EUC-KR. There is NO Unicode support at all. Emojis are NOT allowed.  
 3. Message should be less than 2000 bytes in total (EUC-KR (or ASCII))
 4. Markdown is NOT supported. Plain text only.  
 5. Line feed is not recommended. I recommend writing only one paragraph
