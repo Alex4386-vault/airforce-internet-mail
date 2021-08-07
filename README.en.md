@@ -6,7 +6,7 @@ This issue thread is for sending messages to Alex4386 during military service pe
 
 ## Hey, This guy is "serving" military
 Wut, You wanna contact me?  
-Oh, snap! I can not access the internet in any way during training period. ~~(Because "Those **SHOULD BE OBEYED AND CONTROLLED**")~~  
+Oh, snap! I can not access the internet in any way during training period. ~~(Because "Those **SHOULD OBEY AND SHOULD BE CONTROLLED**")~~  
 What a terrible fate. Isn't it? Don't worry, You can still write a Internet mail! (Me: I don't care just give me my phone. Gov: STFU!)  
 
 *Note: I still can NOT reply to your message. But I can probably check your messages.*  
